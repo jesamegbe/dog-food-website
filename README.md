@@ -39,7 +39,7 @@ This website was created as part of the GemTalent recruitment exercise test to s
 - **Smooth Animations**: CSS keyframe animations with staggered delays
 - **Payment Trust Indicators**: Multiple payment method icons for credibility
 
-### 🛠️ Technical Features
+### Technical Features
 - **Semantic HTML5**: Proper document structure for SEO and accessibility
 - **Modern CSS3**: Flexbox, Grid, and advanced selectors
 - **Mobile-First Approach**: Responsive breakpoints optimized for all devices
